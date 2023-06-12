@@ -41,14 +41,11 @@ body {
   font-weight: 700;
 }
 
-.advice__number {
-}
-.advice__text {
+.advice {
   font-size: 2rem;
   font-weight: 800;
 }
-.dividing__box {
-}
+
 .divide__img {
   width: 100%;
 }
@@ -58,14 +55,11 @@ body {
   left: 50%;
   transform: translateX(-50%);
   background-color: #52ffa8;
-  padding: 1rem;
+  padding: 1.5rem;
   border-radius: 50%;
 
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-}
-
-.dice__img {
 }
